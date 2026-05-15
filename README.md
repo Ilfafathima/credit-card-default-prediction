@@ -7,8 +7,7 @@ machine learning and Power BI dashboard.
 Python, Scikit-learn, Pandas, Jupyter Notebook, Power BI
 
 ## Dashboard Preview
-![Dashboard](Screenshot__748_.png)
-
+![Dashboard](Screenshot%20(748).png)
 ## Key Findings
 - High School educated customers default most (>20%)
 - 50+ age group shows highest default rate
